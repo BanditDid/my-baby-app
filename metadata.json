@@ -1,0 +1,8 @@
+{
+  "name": "BabySteps AI Journal",
+  "description": "A smart baby tracker that calculates age from photos, auto-detects moods using Gemini AI, and organizes memories timeline-style.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
